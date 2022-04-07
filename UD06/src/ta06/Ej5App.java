@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Conversión número en base decimal a binario.
+ * @author marcp
+ *
+ */
 public class Ej5App {
 
 	public static void main(String[] args) {

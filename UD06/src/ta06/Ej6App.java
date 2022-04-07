@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Aplicación que nos dice el número de cifras de un número entero positivo.
+ * @author marcp
+ *
+ */
 public class Ej6App {
 
 	public static void main(String[] args) {

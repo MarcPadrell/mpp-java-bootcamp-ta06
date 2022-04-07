@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Creación de array y diferentes métodos para trabajar con él.
+ * @author marcp
+ *
+ */
 public class Ej9App {
 
 	public static void main(String[] args) {

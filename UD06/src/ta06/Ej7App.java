@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Conversión de euros a otras divisas.
+ * @author marcp
+ *
+ */
 public class Ej7App {
 
 	public static void main(String[] args) {

@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Aplicación para calulcar el factorial de un número.
+ * @author marcp
+ *
+ */
 public class Ej4App {
 
 	public static void main(String[] args) {

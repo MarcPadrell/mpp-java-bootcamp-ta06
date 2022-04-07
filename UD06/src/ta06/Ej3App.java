@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Aplicación para saber si un número es primo o no.
+ * @author marcp
+ *
+ */
 public class Ej3App {
 
 	public static void main(String[] args) {

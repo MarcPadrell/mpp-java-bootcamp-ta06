@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Obtención de los numeros que contengan el dígito que nosotros le indiquemos.
+ * @author marcp
+ *
+ */
 public class Ej12App {
 
 	public static void main(String[] args) {
@@ -42,7 +47,13 @@ public class Ej12App {
 	public static int numAleatorio(int inferior, int superior) {
 		return (int) (Math.random() * (superior - inferior)) + inferior;
 	}
-
+	
+	/**
+	 * Recorremos el array para mostrar solo los números que terminen con el dígito deseado.
+	 * @param array
+	 * @param digito
+	 * @return
+	 */
 	public static boolean mostrarValoresDigito(int array[], int digito) {
 		
 		boolean flag = false;

@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Aplicación para el cáclulo del área círculo, cuadrado o triángulo.
+ * @author marcp
+ *
+ */
 public class Ej1App {
 	
 	public static void main(String[] args) {

@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Array por referencia y multiplicación de estos.
+ * @author marcp
+ *
+ */
 public class Ej11App {
 
 	public static void main(String[] args) {
@@ -45,7 +50,14 @@ public class Ej11App {
 	public static int numAleatorio(int inferior, int superior) {
 		return (int) (Math.random() * (superior - inferior)) + inferior;
 	}
-
+	
+	/**
+	 * Creamos un nuevo array a partir de los dos creados anteriormente realizando una multiplicación entre sus valores.
+	 * @param array1
+	 * @param array2
+	 * @param mida
+	 * @return Otro array con nuevos valores
+	 */
 	public static int[] nuevoArray(int array1[], int array2[], int mida) {
 		int array_multiplication[] = new int[mida];
 

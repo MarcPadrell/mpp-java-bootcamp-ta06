@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Array con número aleatorios primos.
+ * @author marcp
+ *
+ */
 public class Ej10App {
 
 	public static void main(String[] args) {

@@ -2,6 +2,11 @@ package ta06;
 
 import java.util.Scanner;
 
+/**
+ * TA06 - Creación array con valores pedidos por teclado.
+ * @author marcp
+ *
+ */
 public class Ej8App {
 
 	public static void main(String[] args) {
